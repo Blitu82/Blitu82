@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pablo Garcia</h1>
+<h1 align="center">Hi 👋, I'm Pablo García</h1>
 <h3 align="center">Geospatial data analyst with more than 10 years' experience in geospatial data acquisition, processing and administration. I am passionate about hydrography 🌊, maps 🗺️ and programming 🤖.</h3>
 
 <h3 align="left">Connect with me:</h3>
